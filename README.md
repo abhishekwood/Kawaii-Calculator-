@@ -24,7 +24,7 @@ The Kawaii Calculator program lets you perform basic arithmetic operations such 
 
 1. Clone the repository or download the source file.
 2. Compile the program with a C compiler:
-
+---
 ## Compile the programme using...
 ```
 gcc Kawaii-Calculator.c -o kawaii-calculator
