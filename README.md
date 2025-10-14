@@ -27,12 +27,10 @@ The Kawaii Calculator program lets you perform basic arithmetic operations such 
 
 ## Compile the programme using...
 ```
-bash
 gcc Kawaii-Calculator.c -o kawaii-calculator
 
 ```
 ```
-bash
  ./kawaii-calculator
 ```
 
