@@ -25,11 +25,16 @@ The Kawaii Calculator program lets you perform basic arithmetic operations such 
 1. Clone the repository or download the source file.
 2. Compile the program with a C compiler:
 
-## How to Run
-- Compile the program using a C compiler:
-```bash gcc Kawaii-Calculator.c -o kawaii-calculator  ```
-- Run the executable:
-``` bash ./kawaii-calculator ```
+## Compile the programme using...
+```
+bash
+gcc Kawaii-Calculator.c -o kawaii-calculator
+
+```
+```
+bash
+ ./kawaii-calculator
+```
 
 ---
 
@@ -42,6 +47,6 @@ The Kawaii Calculator program lets you perform basic arithmetic operations such 
 
 ## Author
 
-Created by [Abhishek Jha]
+Created by [Abhishek Jha 🧑‍💻]
 
 ---
